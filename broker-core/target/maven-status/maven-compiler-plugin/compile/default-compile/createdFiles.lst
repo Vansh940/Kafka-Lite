@@ -1,0 +1,7 @@
+com\kafkalite\core\log\OffsetIndex.class
+com\kafkalite\core\log\LogManager.class
+com\kafkalite\core\model\RecordBatch.class
+com\kafkalite\core\log\LogSegment.class
+com\kafkalite\core\log\LogManager$TopicPartitionKey.class
+com\kafkalite\core\log\PartitionLog.class
+com\kafkalite\core\model\Record.class
