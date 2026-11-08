@@ -1,1 +1,8 @@
+com\kafkalite\server\MessageDeserializer$MessagePayload.class
+com\kafkalite\server\CommandRunner.class
+com\kafkalite\server\FileExportService.class
 com\kafkalite\server\BrokerMain.class
+com\kafkalite\server\MessageDeserializer.class
+com\kafkalite\server\TopicRepository$Topic.class
+com\kafkalite\server\AdminController.class
+com\kafkalite\server\TopicRepository.class
